@@ -2,7 +2,7 @@
 
 ## 1. **[Stage 0 Task](https://github.com/marydhevanayagam/hackbio-cancer-internship/blob/main/stage-zero-task.md)**
 
-* A short essay on ‘Cancer Transcriptomics’ and its importance in the field of biomarker discovery as it relates to cancer. 
+* A short essay on ‘Cancer Transcriptomics’ and its importance in the field of biomarker discovery relating to cancer. 
 
 ## 2. **[Stage 1 Task](https://github.com/marydhevanayagam/hackbio-cancer-internship/blob/main/stage-one-task.md)**
 
@@ -20,6 +20,6 @@
 
 * Clustering of LGG using expression profiles and identifying expression-based biomarkers in IDH wild-type LGG TCGA samples.
 
-## 6. **[Final project](https://github.com/marydhevanayagam/Transcriptomic-Profiling-of-Older-Age-Sarcoma-Patients-using-TCGA-RNA-seq-data)**
+## 6. **[Final Project](https://github.com/marydhevanayagam/Transcriptomic-Profiling-of-Older-Age-Sarcoma-Patients-using-TCGA-RNA-seq-data)**
 
 * Transcriptomic Profiling of Older Age Sarcoma Patients using TCGA RNA-seq data.
