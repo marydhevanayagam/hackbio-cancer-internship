@@ -27,14 +27,14 @@
 
 ## **Mini Projects**
 
-### **[Mini Project 1](https://github.com/marydhevanayagam/RNAseq-data-analysis)**
+### **[Project 1](https://github.com/marydhevanayagam/RNAseq-data-analysis)**
 
 * Gene Expression Analysis and Visualisation of a RNA-seq dataset.
 
-### **[Mini Project 2](https://github.com/marydhevanayagam/TCGA-PAAD-analysis)**
+### **[Project 2](https://github.com/marydhevanayagam/TCGA-PAAD-analysis)**
 
 * Biomarker Discovery for Early Cancer Detection of Pancreatic Adenocarcinoma (TCGA-PAAD).
 
-### **[Mini Project 3](https://github.com/marydhevanayagam/BioinformHER-module-1-project)**
+### **[Project 3](https://github.com/marydhevanayagam/BioinformHER-module-1-project)**
 
 * Comprehensive Sequence Analysis of the Human TNF Gene.
