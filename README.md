@@ -2,7 +2,7 @@
 
 ## 1. **[Stage 0 Task](https://github.com/marydhevanayagam/hackbio-cancer-internship/blob/main/stage-zero-task.md)**
 
-* A short essay on ‘Cancer Transcriptomics’ and its importance in the field of biomarker discovery relating to cancer. 
+* A short essay on ‘Cancer Transcriptomics’ and its importance in the field of biomarker discovery. 
 
 ## 2. **[Stage 1 Task](https://github.com/marydhevanayagam/hackbio-cancer-internship/blob/main/stage-one-task.md)**
 
