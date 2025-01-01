@@ -23,3 +23,16 @@
 ## 6. **[Final Project](https://github.com/marydhevanayagam/Transcriptomic-Profiling-of-Older-Age-Sarcoma-Patients-using-TCGA-RNA-seq-data)**
 
 * Transcriptomic Profiling of Older Age Sarcoma Patients using TCGA RNA-seq data.
+
+
+### **[Mini Project 1](https://github.com/marydhevanayagam/RNAseq-data-analysis)**
+
+* Gene Expression Analysis and Visualisation of a RNA-seq dataset.
+
+### **[Mini Project 2](https://github.com/marydhevanayagam/TCGA-PAAD-analysis)**
+
+* Biomarker Discovery for Early Cancer Detection of Pancreatic Adenocarcinoma (TCGA-PAAD).
+
+### **[Mini Project 3](https://github.com/marydhevanayagam/BioinformHER-module-1-project)**
+
+* Comprehensive Sequence Analysis of the Human TNF Gene.
