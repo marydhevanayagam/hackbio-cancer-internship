@@ -25,6 +25,8 @@
 * Transcriptomic Profiling of Older Age Sarcoma Patients using TCGA RNA-seq data.
 
 
+## **Mini Projects**
+
 ### **[Mini Project 1](https://github.com/marydhevanayagam/RNAseq-data-analysis)**
 
 * Gene Expression Analysis and Visualisation of a RNA-seq dataset.
