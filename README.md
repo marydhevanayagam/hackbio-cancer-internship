@@ -1,4 +1,4 @@
-# **HackBio Bioinformatics Intership (Clinical Oncology): Biomarker Discovery Track**
+# **HackBio Bioinformatics Internship (Clinical Oncology): Biomarker Discovery Track**
 
 ## 1. **[Stage 0 Task](https://github.com/marydhevanayagam/hackbio-cancer-internship/blob/main/stage-zero/stage-zero-task.md)**
 
